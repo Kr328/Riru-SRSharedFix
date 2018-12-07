@@ -1,0 +1,7 @@
+id=riru_srsf
+name=Riru - SR Shared Fix
+version=v1
+versionCode=1
+author=Kr328
+description=Fix "Storage Redirect" Shared File Problem [( Riru - Core > 7 && API 26/27/28 ) Required]
+minMagisk=17000
