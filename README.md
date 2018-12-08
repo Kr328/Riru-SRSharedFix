@@ -1,6 +1,6 @@
 # Riru - SRSharedFix
 
-A module of [Riru](https://github.com/RikkaApps/Riru). Fix [StorageRedirect](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) open/share file to other apps cause file not found problem
+A module of [Riru](https://github.com/RikkaApps/Riru). Fix [StorageRedirect](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) open/share file to other apps cause file not found problem.
 
 ## Requirements
 
